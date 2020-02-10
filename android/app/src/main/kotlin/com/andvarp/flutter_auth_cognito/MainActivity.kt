@@ -1,4 +1,4 @@
-package com.example.flutter_auth_cognito
+package com.andvarp.flutter_auth_cognito
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
